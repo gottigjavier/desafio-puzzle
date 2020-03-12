@@ -1,3 +1,6 @@
+# Utilizar intérprete de Python 3.x o superior para salida por terminal. Sino pueden aparecer caracteres raros o lanzar errores de tipo charset="UTF-8"
+
+
 numero_original = 58184241583791680
 multiplicador_17cifras = 100000000000000000
 divisor = 2017
