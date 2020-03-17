@@ -5,6 +5,10 @@
 
 Este programa resuelve el desafío de encontrar el resto (residuo, módulo) de la división entre el número 58184241583791680 concatenado 58184241583791680 veces (casi 3.390.000.000.000.000.000.000.000.000.000.000 cifras) y el número 2017
 
+Se utiliza python por la comodidad de uso de variables enteras grandes.
+
+
+
 
 
 # challenge-puzzle
@@ -14,3 +18,4 @@ Este programa resuelve el desafío de encontrar el resto (residuo, módulo) de l
 
 This program solves the challenge of finding the remainder (module) of the division between the number 58184241583791680 concatenated 58184241583791680 times (almost 3,390,000,000,000,000,000,000,000,000,000,000 digits) and the number 2017
 
+Python is used for the convenience of using large integer variables.
